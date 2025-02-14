@@ -1,6 +1,5 @@
 # 1-bit-part-deux
-Repository pertaining to:
-https://arxiv.org/abs/2402.02723
+Repository pertaining to: https://arxiv.org/abs/2402.02723
 
 How to use:
 For `measurements_5255.mat` for the (5,2,5,5) scenario, when you open it, you will load a variable called `new_x` with size (2,7,5,5). In actuality, the matrix that we want to use is given by
